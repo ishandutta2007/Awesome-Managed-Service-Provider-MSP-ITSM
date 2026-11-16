@@ -223,7 +223,7 @@ If you find this repository valuable, please consider supporting the project:
 
 1. Fork the repository.
 2. Add the project to the relevant section adhering to alphabetical or Stars_Count ordering.
-3. Include its tech stack, license, GitHub Stars_Badge, and clear MSP use cases.
+3. Include its tech stack, license, GitHub_Stars_Badge, and clear MSP use cases.
 4. Open a pull request with details about your contribution.
 
 ---
