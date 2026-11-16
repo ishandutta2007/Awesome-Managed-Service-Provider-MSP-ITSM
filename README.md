@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Service-Provider-MSP-ITSM?style=social)](https://github.com/ishandutta2007/Awesome-Managed-Service-Provider-MSP-ITSM/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Service-Provider-MSP-ITSM?style=social)](https://github.com/ishandutta2007/Awesome-Managed-Service-Provider-MSP-ITSM/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 💡 A comprehensive, SEO-optimized, curated guide to top **Managed Service Provider (MSP)** software, **IT Service Management (ITSM)**, and **Professional Services Automation (PSA)** platforms. Features side-by-side SaaS pricing comparisons, company enterprise valuations, free trial limits, and leading self-hosted open-source alternatives for ticketing, ITIL service desk, remote monitoring and management (RMM), asset tracking, and billing.
@@ -66,104 +66,104 @@
 
 ## 🟩 Open-Source Software
 
-🌐 Self-hosted, community-driven MSP ITSM, PSA, and RMM tools sorted in **descending order by GitHub stargazers count**. Each project includes a live star badge linking directly to its GitHub stargazers.
+🌐 Self-hosted, community-driven MSP ITSM, PSA, and RMM tools sorted in **descending order by GitHub stargazers count**. Each project includes a live Stars_Badge linking directly to its GitHub stargazers.
 
-| Project | GitHub Stars | Primary Stack | License | Core Focus |
+| Project | GitHub_Stars | Primary Stack | License | Core Focus |
 | :--- | :--- | :--- | :--- | :--- |
-| **[GLPI](#1--glpi)** | [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) | 🐘 PHP / MariaDB | 📜 GPL-3.0 | 📦 Comprehensive ITIL Service Desk, CMDB & Asset Inventory |
-| **[Zammad](#2--zammad)** | [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | 💎 Ruby on Rails / PostgreSQL | 📜 AGPL-3.0 | 💬 Multi-channel Helpdesk, SLA Escalations & Customer Portal |
-| **[FreeScout](#3--freescout)** | [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) | 🐘 PHP / Laravel / MySQL | 📜 AGPL-3.0 | 📬 Lightweight Helpdesk, Shared Mailbox & Multi-Tenant Support |
-| **[Tactical RMM](#4-️-tactical-rmm)** | [![GitHub stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers) | 🐍 Django / Vue.js / Go | 📜 Open-Source Core | 🛡️ Full Remote Monitoring & Management (RMM) for MSPs |
-| **[osTicket](#5--osticket)** | [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers) | 🐘 PHP / MySQL | 📜 GPL-2.0 | 🎫 Proven Web-Based Support Ticketing & SLA Routing |
-| **[iTop](#6--itop)** | [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers) | 🐘 PHP / MySQL | 📜 AGPL-3.0 | 🌐 ITIL-Compliant ITSM, CMDB & Service Contract Management |
-| **[ITFlow](#7--itflow)** | [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers) | 🐘 PHP / MySQL | 📜 GPL-3.0 | 💼 MSP PSA with Client Portal, Invoicing & Password Vault |
-| **[Znuny](#8-️-znuny)** | [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers) | 🐪 Perl / JavaScript / SQL | 📜 AGPL-3.0 / GPL | ⚙️ Enterprise-Grade Ticket Service Management (OTRS Fork) |
-| **[NetLock RMM](#9--netlock-rmm)** | [![GitHub stars](https://img.shields.io/github/stars/0x101-Cyber-Security/NetLock-RMM?style=social&color=white)](https://github.com/0x101-Cyber-Security/NetLock-RMM/stargazers) | 🔷 C# / .NET / Blazor | 📜 Open Core (Community 25 nodes) | 🔒 Cybersecurity RMM, App Allowlisting & Service Desk |
-| **[AlgaPSA](#10--algapsa)** | [![GitHub stars](https://img.shields.io/github/stars/Nine-Minds/alga-psa?style=social&color=white)](https://github.com/Nine-Minds/alga-psa/stargazers) | ⚛️ Next.js / TypeScript / PostgreSQL | 📜 AGPL-3.0 | ⚡ Dedicated MSP PSA, Tiered Contracts & Automated Invoicing |
-| **[ClientSt0r](#11--clientst0r)** | [![GitHub stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers) | 🐍 Django 6 / MariaDB / Docker | 📜 MIT | 📁 IT Documentation, Network Mapping & Multi-Tenant Desk |
-| **[LightPSA](#12--lightpsa)** | [![GitHub stars](https://img.shields.io/github/stars/BenJonesVA/LightPSA?style=social&color=white)](https://github.com/BenJonesVA/LightPSA/stargazers) | ⚛️ Next.js / Prisma / PostgreSQL | 📜 MIT | 💡 Modern Lightweight PSA, Work Queues & CSAT Surveys |
+| **[GLPI](#1--glpi)** | [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) | 🐘 PHP / MariaDB | 📜 GPL-3.0 | 📦 Comprehensive ITIL Service Desk, CMDB & Asset Inventory |
+| **[Zammad](#2--zammad)** | [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | 💎 Ruby on Rails / PostgreSQL | 📜 AGPL-3.0 | 💬 Multi-channel Helpdesk, SLA Escalations & Customer Portal |
+| **[FreeScout](#3--freescout)** | [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) | 🐘 PHP / Laravel / MySQL | 📜 AGPL-3.0 | 📬 Lightweight Helpdesk, Shared Mailbox & Multi-Tenant Support |
+| **[Tactical RMM](#4-️-tactical-rmm)** | [![GitHub_Stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers) | 🐍 Django / Vue.js / Go | 📜 Open-Source Core | 🛡️ Full Remote Monitoring & Management (RMM) for MSPs |
+| **[osTicket](#5--osticket)** | [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers) | 🐘 PHP / MySQL | 📜 GPL-2.0 | 🎫 Proven Web-Based Support Ticketing & SLA Routing |
+| **[iTop](#6--itop)** | [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers) | 🐘 PHP / MySQL | 📜 AGPL-3.0 | 🌐 ITIL-Compliant ITSM, CMDB & Service Contract Management |
+| **[ITFlow](#7--itflow)** | [![GitHub_Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers) | 🐘 PHP / MySQL | 📜 GPL-3.0 | 💼 MSP PSA with Client Portal, Invoicing & Password Vault |
+| **[Znuny](#8-️-znuny)** | [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers) | 🐪 Perl / JavaScript / SQL | 📜 AGPL-3.0 / GPL | ⚙️ Enterprise-Grade Ticket Service Management (OTRS Fork) |
+| **[NetLock RMM](#9--netlock-rmm)** | [![GitHub_Stars](https://img.shields.io/github/stars/0x101-Cyber-Security/NetLock-RMM?style=social&color=white)](https://github.com/0x101-Cyber-Security/NetLock-RMM/stargazers) | 🔷 C# / .NET / Blazor | 📜 Open Core (Community 25 nodes) | 🔒 Cybersecurity RMM, App Allowlisting & Service Desk |
+| **[AlgaPSA](#10--algapsa)** | [![GitHub_Stars](https://img.shields.io/github/stars/Nine-Minds/alga-psa?style=social&color=white)](https://github.com/Nine-Minds/alga-psa/stargazers) | ⚛️ Next.js / TypeScript / PostgreSQL | 📜 AGPL-3.0 | ⚡ Dedicated MSP PSA, Tiered Contracts & Automated Invoicing |
+| **[ClientSt0r](#11--clientst0r)** | [![GitHub_Stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers) | 🐍 Django 6 / MariaDB / Docker | 📜 MIT | 📁 IT Documentation, Network Mapping & Multi-Tenant Desk |
+| **[LightPSA](#12--lightpsa)** | [![GitHub_Stars](https://img.shields.io/github/stars/BenJonesVA/LightPSA?style=social&color=white)](https://github.com/BenJonesVA/LightPSA/stargazers) | ⚛️ Next.js / Prisma / PostgreSQL | 📜 MIT | 💡 Modern Lightweight PSA, Work Queues & CSAT Surveys |
 
 ---
 
 ### 1. 📦 GLPI
-[![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
 * **Stack:** PHP / MariaDB / Node.js | **License:** GPL-3.0
 * **Repository:** [glpi-project/glpi](https://github.com/glpi-project/glpi)
 * **Overview:** GLPI is one of the most mature and widely deployed open-source IT Asset Management (ITAM) and IT Service Management (ITSM) platforms in the world. It provides native ITIL alignment covering incident, problem, change, and project management alongside financial inventory tracking, network topologies, software licensing audits, and helpdesk ticketing.
 * **Best for:** MSPs and internal IT departments needing enterprise-grade hardware/software asset lifecycle tracking alongside an ITIL service desk.
 
 ### 2. 💬 Zammad
-[![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
 * **Stack:** Ruby on Rails / PostgreSQL / Elasticsearch | **License:** AGPL-3.0
 * **Repository:** [zammad/zammad](https://github.com/zammad/zammad)
 * **Overview:** Zammad is a modern, high-performance web-based ticketing system designed for customer support and IT helpdesks. It features real-time agent collision prevention, multi-channel intake (Email, Chat, Phone, Webhook, SMS), flexible SLA rules, comprehensive audit trails, and deep REST API extensibility.
 * **Best for:** Fast-paced MSP service desks requiring real-time collaboration, auto-saving drafts, and multi-channel customer communication.
 
 ### 3. 📬 FreeScout
-[![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
 * **Stack:** PHP 8 / Laravel / MySQL | **License:** AGPL-3.0
 * **Repository:** [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)
 * **Overview:** FreeScout is a super-lightweight, self-hosted alternative to Help Scout and Zendesk. Built on modern Laravel, it provides shared mailboxes, internal ticket notes, collision detection, push notifications, and multi-tenant department routing with minimal resource overhead.
 * **Best for:** Lean MSPs and IT consultancies wanting a clean, no-bloat ticketing portal that runs seamlessly on entry-level VPS hardware.
 
 ### 4. 🛡️ Tactical RMM
-[![GitHub stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers)
 * **Stack:** Django / Vue.js / Go / PostgreSQL | **License:** Open Source
 * **Repository:** [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm)
 * **Overview:** Tactical RMM is a premier open-source remote monitoring & management platform built natively for MSPs. Built with a Go agent and Django/Vue backend, it integrates remote desktop access (MeshCentral), Windows patch management, background terminal execution, automated script scheduling, and real-time alerting.
 * **Best for:** MSPs looking for a self-hosted RMM solution to manage, patch, and remotely support fleets of Windows endpoints without recurring per-device license fees.
 
 ### 5. 🎫 osTicket
-[![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
 * **Stack:** PHP / MySQL | **License:** GPL-2.0
 * **Repository:** [osTicket/osTicket](https://github.com/osTicket/osTicket)
 * **Overview:** osTicket is one of the most widely trusted and proven open-source ticketing software packages. It routes inquiries received via email, web forms, and phone into a straightforward multi-user web interface with custom fields, ticket filters, auto-responders, and SLA tracking.
 * **Best for:** Small-to-medium MSPs seeking a rock-solid, low-maintenance ticketing system with minimal operational overhead.
 
 ### 6. 🌐 iTop
-[![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)
 * **Stack:** PHP / MySQL | **License:** AGPL-3.0
 * **Repository:** [Combodo/iTop](https://github.com/Combodo/iTop)
 * **Overview:** iTop (IT Operations Portal) is an ITIL-compliant service management tool incorporating a fully customizable Configuration Management Database (CMDB), helpdesk ticketing, and service contract management. It includes graphical impact analysis, data synchronization, and change workflows.
 * **Best for:** Organizations needing rigorous ITIL compliance, impact relationship mapping, and service contract tracking.
 
 ### 7. 💼 ITFlow
-[![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
 * **Stack:** PHP / MySQL / Bootstrap | **License:** GPL-3.0
 * **Repository:** [itflow-org/itflow](https://github.com/itflow-org/itflow)
 * **Overview:** ITFlow is purpose-built as an all-in-one open-source PSA and IT documentation suite for MSPs and internal IT departments. It unites client CRM, asset inventory, ticketing, encrypted credential vaults, recurring invoicing, and a client portal into one platform.
 * **Best for:** MSPs wanting a dedicated, unified open-source PSA that bridges ticketing, client accounting, and documentation in a single pane.
 
 ### 8. ⚙️ Znuny
-[![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)
 * **Stack:** Perl / JavaScript / MariaDB / PostgreSQL | **License:** AGPL-3.0
 * **Repository:** [znuny/Znuny](https://github.com/znuny/Znuny)
 * **Overview:** Znuny is the enterprise-grade, community-driven fork of the legendary OTRS (Open Technology Real Services) service desk. It offers industrial-grade ticket lifecycles, advanced process automation engines, SLA hierarchies, and multi-tenant customer company management.
 * **Best for:** Larger MSPs and enterprises with complex SLA requirements and strict regulatory compliance policies.
 
 ### 9. 🔒 NetLock RMM
-[![GitHub stars](https://img.shields.io/github/stars/0x101-Cyber-Security/NetLock-RMM?style=social&color=white)](https://github.com/0x101-Cyber-Security/NetLock-RMM/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/0x101-Cyber-Security/NetLock-RMM?style=social&color=white)](https://github.com/0x101-Cyber-Security/NetLock-RMM/stargazers)
 * **Stack:** C# / .NET / Blazor / MySQL | **License:** Open Core (Community Edition up to 25 devices)
 * **Repository:** [0x101-Cyber-Security/NetLock-RMM](https://github.com/0x101-Cyber-Security/NetLock-RMM)
 * **Overview:** Developed in Germany, NetLock RMM integrates endpoint security into remote management. Key capabilities include Windows Application Control (default-deny allowlisting), USB peripheral control, antivirus management, and an integrated helpdesk ticketing/CRM module.
 * **Best for:** Security-focused MSPs and homelab administrators seeking application whitelisting and device control alongside RMM.
 
 ### 10. ⚡ AlgaPSA
-[![GitHub stars](https://img.shields.io/github/stars/Nine-Minds/alga-psa?style=social&color=white)](https://github.com/Nine-Minds/alga-psa/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Nine-Minds/alga-psa?style=social&color=white)](https://github.com/Nine-Minds/alga-psa/stargazers)
 * **Stack:** Next.js / TypeScript / PostgreSQL / Redis | **License:** AGPL-3.0
 * **Repository:** [Nine-Minds/alga-psa](https://github.com/Nine-Minds/alga-psa)
 * **Overview:** Built by Nine Minds (founded by an ex-ConnectWise Chief Architect), AlgaPSA delivers a modern PSA specifically tailored for MSP workflows. It features deep contract purchase orders, recurring billing cycles, proration handling, visual PDF invoice designers, and Redis-backed event triggers.
 * **Best for:** MSPs desiring a modern Next.js/PostgreSQL open-source PSA with sophisticated billing, proration, and contract logic.
 
 ### 11. 📁 ClientSt0r
-[![GitHub stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers)
 * **Stack:** Django 6 / MariaDB / Docker | **License:** MIT
 * **Repository:** [agit8or1/clientst0r](https://github.com/agit8or1/clientst0r)
 * **Overview:** ClientSt0r is an MIT-licensed IT documentation and service desk platform. It combines runbooks, client workspaces, AES-256 encrypted credential vaults, SLA-backed ticketing, quotes, and physical network topology mapping (racks, switch ports, cables) without feature gating.
 * **Best for:** MSPs seeking a completely free, MIT-licensed IT documentation platform with an integrated service desk.
 
 ### 12. 💡 LightPSA
-[![GitHub stars](https://img.shields.io/github/stars/BenJonesVA/LightPSA?style=social&color=white)](https://github.com/BenJonesVA/LightPSA/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/BenJonesVA/LightPSA?style=social&color=white)](https://github.com/BenJonesVA/LightPSA/stargazers)
 * **Stack:** Next.js / Prisma / PostgreSQL / Tailwind CSS | **License:** MIT
 * **Repository:** [BenJonesVA/LightPSA](https://github.com/BenJonesVA/LightPSA)
 * **Overview:** A lightweight, modern PSA system featuring kanban and table-based ticket queues, SLA timers, customer satisfaction (CSAT) surveys, client asset tracking, and automated task rules deployable via Docker Compose.
@@ -222,8 +222,8 @@ If you find this repository valuable, please consider supporting the project:
 🤝 Contributions are welcomed and encouraged! If you know of an outstanding open-source MSP ITSM, PSA, or RMM project that is missing:
 
 1. Fork the repository.
-2. Add the project to the relevant section adhering to alphabetical or star count ordering.
-3. Include its tech stack, license, GitHub star badge, and clear MSP use cases.
+2. Add the project to the relevant section adhering to alphabetical or Stars_Count ordering.
+3. Include its tech stack, license, GitHub Stars_Badge, and clear MSP use cases.
 4. Open a pull request with details about your contribution.
 
 ---
